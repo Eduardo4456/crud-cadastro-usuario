@@ -21,11 +21,8 @@ Mais do que um exercício prático, esse projeto me permitiu ganhar maior famili
 
 ## 💡 Objetivos do Projeto
 
-- Demonstrar habilidades no desenvolvimento de APIs REST com Java;  
 - Aplicar os conceitos de CRUD (Create, Read, Update, Delete);  
 - Consolidar o uso de frameworks e ferramentas modernas;  
 - Servir como base para projetos mais complexos e desafiadores no futuro.
 
 ---
-
-Se desejar, posso ajudar a criar instruções de instalação, exemplos de uso e documentação dos endpoints da API. Quer que eu faça?  
